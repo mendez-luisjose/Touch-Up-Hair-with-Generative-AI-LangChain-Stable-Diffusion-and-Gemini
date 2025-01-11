@@ -1,6 +1,6 @@
 # Touch-Up Hair with Generative AI, LangChain, Stable Diffusion and Gemini
 
-[![Touch-Up Hair with Generative AI, LangChain, Stable Diffusion and Gemini](./touch_up_hair_app.png)](https://youtu.be/suQHBEilZnU?si=3FgTyoGUjgLGhXXt)
+[![Touch-Up Hair with Generative AI, LangChain, Stable Diffusion and Gemini](./Desktop-App-Preview.png)](https://youtu.be/suQHBEilZnU?si=BdIIfbIl87ApbNce)
 
 ## Touch-Up the Hair Roots and Changing the Hair Color of an Image using Stable Diffusion, ControlNet, Mediapipe, KMeans, Streamlit, Gemini, LangChain and Flask.
 
@@ -14,7 +14,7 @@ The Application can also change the Hair Color of the person, to the color that 
 
 - App Preview: https://youtu.be/suQHBEilZnU?si=BdIIfbIl87ApbNce
 
-[![Touch-Up Hair with Generative AI, LangChain, Stable Diffusion and Gemini](./touch_up_hair_app.png)](https://youtu.be/suQHBEilZnU?si=3FgTyoGUjgLGhXXt)
+[![Touch-Up Hair with Generative AI, LangChain, Stable Diffusion and Gemini](./Mobile-App-Preview.png)](https://youtu.be/suQHBEilZnU?si=BdIIfbIl87ApbNce)
 
 ## Connect
 - Linkedin: https://www.linkedin.com/in/luis-jose-mendez/
